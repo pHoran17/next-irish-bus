@@ -1,0 +1,9 @@
+{
+    
+  "sqlitePath": "/db/",
+  "agencies": [
+      {
+        "path": "google_transit_buseireann.zip"
+      }
+    ]
+  }
